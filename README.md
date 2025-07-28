@@ -34,3 +34,9 @@ CREATE TABLE usuarios (
   data_nascimento DATE NOT NULL,
   senha VARCHAR(255) NOT NULL
 );
+
+## 📌  Funcionalidades
+- Criar usuário (Create)
+- Listar usuários (Read)
+- Editar usuário (Update)
+- Excluir usuário (Delete)
